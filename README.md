@@ -2,6 +2,10 @@
 
 A responsive dashboard user interface built using HTML and CSS.
 
+## Preview
+![Dashboard Preview](https://raw.githubusercontent.com/kasthurikannan22/dashboard-ui/main/wildmail.png)
+
+
 ## Features
 - Sidebar navigation
 - Dashboard summary cards
@@ -13,5 +17,5 @@ A responsive dashboard user interface built using HTML and CSS.
 - CSS3
 
 ## Purpose
-This project was created to practice frontend layout design
+This project was created to practice frontend layout
 and styling concepts.
